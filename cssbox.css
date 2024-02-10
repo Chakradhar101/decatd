@@ -1,0 +1,27 @@
+.box{
+    border: 10px groove rgb(223, 227, 122);
+    border-radius: 25px;
+    color: white;
+    background-color:rgb(26, 33, 62);
+    padding: 50px ;
+    margin-right: 500px;
+    text-align: center;
+    
+}
+.heading{
+    text-transform: capitalize;
+}
+.dacard{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.button{
+    border: none;
+    padding: 12px 4px;
+    border-radius: 16px;
+    font-weight: bolder;
+    font-size: 18px;
+    background-color:aqua;
+    cursor: pointer;
+}
